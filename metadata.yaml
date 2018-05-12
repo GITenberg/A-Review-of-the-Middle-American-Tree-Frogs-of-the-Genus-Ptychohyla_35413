@@ -1,0 +1,33 @@
+_repo: A-Review-of-the-Middle-American-Tree-Frogs-of-the-Genus-Ptychohyla_35413
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35413-h/images/cover_treefrog.jpg
+creator:
+  author:
+    agent_name: Duellman, William Edward
+    alias: Duellman, William E. (William Edward)
+    birthdate: 1930
+    gutenberg_agent_id: '35075'
+    url: http://www.gutenberg.org/2009/agents/35075
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2011-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35413'
+  lccn: '64063098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amphibians -- Central America'
+- !lcsh 'Amphibians -- Mexico'
+- !lcc 'QH'
+- !lcc 'QL'
+- !lcsh 'Ptychohyla'
+title: A Review of the Middle American Tree Frogs of the Genus Ptychohyla
+url: http://www.gutenberg.org/ebooks/35413
